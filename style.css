@@ -15,14 +15,14 @@ body {
 }
 
 header {
-	background-color: #2f8d46;
+	background-color: #2f488d;
 	color: white;
 	text-align: center;
 	padding: 1em;
 }
 
 nav {
-	background-color: #4caf50;
+	background-color: #4c63af;
 }
 
 nav ul {
@@ -46,7 +46,7 @@ nav a {
 }
 
 nav a:hover {
-	background-color: #45a049;
+	background-color: #1c3a66;
 }
 
 main {
@@ -65,7 +65,7 @@ main {
 }
 
 #content h2 {
-	color: #2f8d46;
+	color: #1b18b4;
 }
 
 #content img {
@@ -76,7 +76,7 @@ main {
 	border-radius: 10px;
 	box-shadow: 
 2px 2px 5px rgba(0, 0, 0, 0.2);
-	border: 3px solid #2F8D46;
+	border: 3px solid #1512a5;
 }
 
 form {
@@ -116,5 +116,5 @@ background-color 0.3s ease;
 }
 
 form button:hover {
-	background-color: #45a049;
+	background-color: #2344d8;
 }

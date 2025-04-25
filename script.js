@@ -5,7 +5,7 @@ function changeContent(page) {
 		case 'home':
 			contentDiv.innerHTML = `
 				<img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/geeksforgeeks-12.png">
+"https://www.financialexpress.com/wp-content/uploads/2020/09/hexaware.jpg">
 				<h2>
 					Welcome to the Home Page!
 				</h2>
